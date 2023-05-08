@@ -1,0 +1,88 @@
+[
+    {
+        "name": "Консилер",
+        "price": "999₽",
+        "id": 1,
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione, numquam?",
+        "collection":"new",
+        "img": "../../public/products/cosmetics/consiler.jpg",
+        "additionalImg": "../../public/products/cosmetics/consiler1.jpg ../../public/products/cosmetics/consiler2.jpg ../../public/products/cosmetics/consiler3.jpg",
+        "type": "cosmetic",
+        "descTitle": "БЕРЕЖНО ОЧИЩАЕТ НЕ ПЕРЕСУШИВАЯ КОЖУ$УВЛАЖНЯЕТ И ПИТАЕТ КОЖУ$ОБЛАДАЕТ СВЕЖИМ ЯГОДНЫМ АРОМАТОМ",
+        "descImg":"../../public/products/cosmetics/consiler.jpg ../../public/products/cosmetics/consiler.jpg",
+        "descImgSubtitle":"масло$масло какао"
+    },
+    {
+        "name": "Помада",
+        "price": "399₽",
+        "id": 2,
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione, numquam?",
+        "collection":"new",
+        "img": "../../public/products/cosmetics/pomade.jpg",
+        "type": "cosmetic"
+    },
+    {
+        "name": "Тени",
+        "price": "499₽",
+        "id": 3,
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione, numquam?",
+        "collection":"new",
+        "img": "../../public/products/cosmetics/shadows.jpg",
+        "type": "cosmetic"
+    },
+    {
+        "name": "Тушь",
+        "price": "799₽",
+        "id": 4,
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione, numquam?",
+        "collection":"new",
+        "img": "../../public/products/cosmetics/ink.jpg",
+        "type": "cosmetic"
+    },
+    {
+        "name": "Крем питательный",
+        "price": "599₽",
+        "id": 5,
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione, numquam?",
+        "collection":"new",
+        "img": "../../public/products/cream/cream1.jpg",
+        "type": "udodcosmetic"
+    },
+    {
+        "name": "Крем антивозрастной",
+        "price": "199₽",
+        "id": 6,
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione, numquam?",
+        "collection":"",
+        "img": "../../public/products/cream/cream2.jpg",
+        "type": "udodcosmetic"
+    },
+    {
+        "name": "Крем увлажняющий",
+        "price": "499₽",
+        "id": 7,
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione, numquam?",
+        "collection":"",
+        "img": "../../public/products/cream/cream3.jpg",
+        "type": "udodcosmetic"
+    },
+    {
+        "name": "Обертывание",
+        "price": "499₽",
+        "id": 8,
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione, numquam?",
+        "collection":"",
+        "img": "../../public/products/scrub/scrub1.jpg",
+        "type": "scrub"
+    },
+    {
+        "name": "Скраб",
+        "price": "499₽",
+        "id": 9,
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione, numquam?",
+        "collection":"new",
+        "img": "../../public/products/scrub/scrub2.jpg",
+        "type": "scrub"
+    }
+    
+]

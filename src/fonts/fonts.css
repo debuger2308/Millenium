@@ -1,0 +1,20 @@
+@font-face {
+    font-family: Harmonia;
+    font-weight: 400;
+    font-style: normal;
+    src: local("Medium"),
+         url("./HarmoniaSansProCyr-Cond.woff2") format('woff2'),
+         url("./HarmoniaSansProCyr-Cond.eot") format('eot'),
+         url("./HarmoniaSansProCyr-Cond.woff") format('woff');
+    font-display: swap;
+  }
+  @font-face {
+    font-family: Harmonia;
+    font-weight: 800;
+    font-style: normal;
+    src: local("SemiBold"),
+         url("./HarmoniaSansProCyr-SemiBd.woff2") format('woff2'),
+         url("./HarmoniaSansProCyr-SemiBd.eot") format('woff2'),
+         url("./HarmoniaSansProCyr-SemiBd.woff") format('woff');
+    font-display: swap;
+  }
